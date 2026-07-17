@@ -14,7 +14,7 @@
 #
 # -------------------------------------------------------------
 # Approaches:
-# 1. Floyd’s Cycle Detection (Tortoise & Hare) ✅ Optimal
+# 1. Floyd’s Cycle Detection (Tortoise & Hare)
 # 2. Hash Set (Visited Nodes)
 #
 # -------------------------------------------------------------
